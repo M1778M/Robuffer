@@ -1,3 +1,5 @@
+-- Author: M1778
+-- Github: M1778M/Robuffer
 Robuffer = {}
 Robuffer.__index = Robuffer
 
